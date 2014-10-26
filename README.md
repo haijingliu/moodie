@@ -1,5 +1,8 @@
 moodie on-going
 
+my last objective-c project
+
+because I'm not a fan of smartphone and apps.
 ======
 
 IOS
