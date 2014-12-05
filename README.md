@@ -1,12 +1,7 @@
 moodie on-going
 
-my first and last objective-c project
-
-because I'm not a fan of smartphone and apps.
-
+IOS application and objective-c 
 ======
-
-IOS
 
 An IOS App aim to enhance everyday mood
 
